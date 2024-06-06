@@ -1,0 +1,24 @@
+{
+  "name": "versem",
+  "version": "0.1.0",
+  "description": "versionamiento semántico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omacdamiac/versem.git"
+  },
+  "keywords": [
+    "versem",
+    "version",
+    "versiones"
+  ],
+  "author": "Omar Villavicencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omacdamiac/versem/issues"
+  },
+  "homepage": "https://github.com/omacdamiac/versem#readme"
+}
